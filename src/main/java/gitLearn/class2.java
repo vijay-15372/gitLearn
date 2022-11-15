@@ -7,6 +7,7 @@ public class class2 {
     
 	public void method1() {
 		int x;
+		int y;
 		
 	}
 

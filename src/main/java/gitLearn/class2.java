@@ -10,6 +10,7 @@ public class class2 {
 		int y;
 		this.x=10;
 		System.out.println("hi");
+		System.out.println("hello");
 		
 	}
 

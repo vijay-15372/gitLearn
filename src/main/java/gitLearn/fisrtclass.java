@@ -7,7 +7,7 @@ public class fisrtclass {
 		System.out.println("second commit");
 		System.out.println("third commit");
 		System.out.println("branch commit");
-		
+		System.out.println("user 2");
 	}
 	
 

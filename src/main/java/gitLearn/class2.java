@@ -9,6 +9,8 @@ public class class2 {
 		int x;
 		int y;
 		this.x=10;
+		System.out.println("hi");
+		
 	}
 
 	

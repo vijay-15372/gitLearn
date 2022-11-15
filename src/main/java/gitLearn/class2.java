@@ -6,6 +6,7 @@ public class class2 {
 	int z;
     
 	public void method1() {
+		int x;
 		
 	}
 

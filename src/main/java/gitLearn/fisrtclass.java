@@ -8,6 +8,7 @@ public class fisrtclass {
 		System.out.println("third commit");
 		System.out.println("branch commit");
 		System.out.println("changed");
+		System.out.println("ncw");
 		
 		
 	}

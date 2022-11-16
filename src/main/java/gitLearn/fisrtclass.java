@@ -11,6 +11,7 @@ public class fisrtclass {
 		System.out.println("changed");
 		System.out.println("ncw");
 		System.out.println("git merge");
+		System.out.println("in main");
 	}
 	
 
